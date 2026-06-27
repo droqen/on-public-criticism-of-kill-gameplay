@@ -17,9 +17,9 @@ within this repository i'd like to gather a body of other public responses, reac
 	- [droqen's "kill gameplay" rant @ bonus stage (jan 2025)](https://youtu.be/OGjv9GDd504)
 	- [The End of Gameplay Trailer](https://youtu.be/g_kQLrBSrt0)
 	- [untitled kill gameplay video](https://youtu.be/LH45Q2jiguQ)
-	- [a video about the very first negative review of the end of gameplay (and certainly not the last)](https://youtu.be/UoF_R-k3fxo).
-- reviews of The End of Gameplay [on Steam](https://store.steampowered.com/app/3120040/The_End_of_Gameplay/#app_reviews_hash) and [on backloggd](https://backloggd.com/games/the-end-of-gameplay/)
-- comments left on the youtube video [I Played the Game That Hates Gameplay and I Have Thoughts](https://youtu.be/6qmt9LX8pTI)
+	- and [a video about the very first negative review of the end of gameplay (and certainly not the last)](https://youtu.be/UoF_R-k3fxo)
+- reviews of The End of Gameplay found [on Steam](https://store.steampowered.com/app/3120040/The_End_of_Gameplay/#app_reviews_hash) and [on backloggd](https://backloggd.com/games/the-end-of-gameplay/)
+- comments left on the youtube video [I Played the Game That Hates Gameplay and I Have Thoughts](https://youtu.be/6qmt9LX8pTI) ([i am a dot.](https://www.youtube.com/@i_am_a_dot))
 
 ## 2; counter-criticism
 
@@ -32,3 +32,11 @@ in section 1, i will collect a body of 'public criticism,' ideally unedited but 
 in section 2, i will present counter-criticism to the body produced in section 1
 
 in this final section, section 3, i will attempt to synthesize both previous sections into a usable summary, whose purpose is to facilitate future discussion by avoiding re-treading discussions that have already occurred.
+
+## inspirations for this process
+
+- [Starseed Observatory](http://starseedobservatory.com), "a mixed-media video games criticism project that critiques the indie video game Starseed Pilgrim and presents the ongoing discourse around the game." it collects a number of articles and comments regarding Starseed Pilgrim, a game i designed. i haven't seen any other attempts before or since to catalogue the "discourse around" any game.
+
+- [Ugly Feelings](https://www.hup.harvard.edu/books/9780674024090) (Ngai, Sianne); _further discussion in next list item_
+
+- [The Impossible Reversal](https://www.upress.umn.edu/9781517916220/the-impossible-reversal/) (McDonald, Peter) and [Run and Jump: The Meaning of the 2D Platformer](https://direct.mit.edu/books/oa-monograph/5723/Run-and-JumpThe-Meaning-of-the-2D-Platformer) (McDonald, Peter) address games in a neutral, observational, meaning-making way that i find similar to Ngai's approach. i would describe these books' particular attitude towards creative works as _faithful,_ as in, having faith that there is something to find; and also _objective,_ not in the sense that the conclusions are objective statements, but that the statements are connected to objective observations regarding the object -- in other words, the books do not say, "i had this experience with the object and here is an interpretation of that experience," but rather, "here is a set of facts about the object and here is an interpretation of those facts."
