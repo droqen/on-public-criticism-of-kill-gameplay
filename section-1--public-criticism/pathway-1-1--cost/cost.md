@@ -1,4 +1,4 @@
-# Cost
+# pathway 1.1; Cost
 
 ## droqen's original statement on costs, cited by dot in video
 
