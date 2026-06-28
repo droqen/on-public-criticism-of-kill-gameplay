@@ -34,6 +34,8 @@
 
 ## games don't have to have an instrumental function; games can just be fun
 
+> I think Droqen completely missed . . . "fun things are fun". // Sudoku is just fun. Nothing more, nothing less. Completing something, anything, has intrinsic value. And so does getting better at something. These things are simply fun. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwGDb3KvFhzePBCNqB4AaABAg)
+
 ## games satisfy a desire to feel a sense of accomplishment
 
 > I play for the gameplay, for the challenge, for the adrenaline spikes. . . I want to feel challenged, i want to feel like what im doing has meaning. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugw2M4i0ZGKVHwbAXjV4AaABAg)
@@ -42,9 +44,11 @@
 
 **NOTE:** This one specifically states that the sense of accomplishment is separate from the sense of expression/artistry and positions them relative to one another.
 
+> Completing something, anything, has intrinsic value. And so does getting better at something. These things are simply fun. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwGDb3KvFhzePBCNqB4AaABAg)
+
 ## droqen's position is that games and art must have an instrumental function
 
-> they seem to have philosophized themselves into a position of thinking things must be "useful" to not be evil or bad, and that playing games or engaging with entertainment is not useful, but somehow art itself, as long as it is conveying a message, is useful and thus should exist only to serve that function. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugztle4ev7Iuscu0kD14AaABAg&pp=0gcJCSIANpG00pGi)
+> they [droqen] seem to have philosophized themselves into a position of thinking things must be "useful" to not be evil or bad, and that playing games or engaging with entertainment is not useful, but somehow art itself, as long as it is conveying a message, is useful and thus should exist only to serve that function. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugztle4ev7Iuscu0kD14AaABAg&pp=0gcJCSIANpG00pGi)
 
 ## i can relate to some parts of it (large category, may break up)
 
@@ -71,3 +75,21 @@
 ## there's no problem with repetition
 
 > . . . having to replay a couple of seconds doesn't hurt the narrative. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx0wCYL8x4nimkl8eF4AaABAg)
+
+## the particular details of the style/medium are limiting, and this hurts the overall effect (of The End of Gameplay; this one is specifically about the game and not the larger 'kill gameplay' concept, maybe cut)
+
+> 
+
+## the issue of games putting up obstacles is not really a problem because you can just do whatever you want anyway (via metagaming)
+
+> All these games can be mastered, modded, broken, glitched and played "wrong". . . . with enough interest and applied effort, you can transform any game to a free form experience. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugw804LMFM6c8hsdDeF4AaABAg)
+
+## cost is not unique to games
+
+regarding dot's statement from 18:20, "this idea of a cost is unique to games," some users replied as follows:
+
+> No, it very much is not. Every piece of art requires time investment . . . [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwTeTsdsGWDSZqVNSB4AaABAg)
+
+> You can read a book half heartedly and get the gist of the plot, that would be the equivalent of playing a game in easy mode. . . . [you] can try to understand the deeper ideas that the book communicates, and that requires analysing the themes, the motifs, the stylistic resources used and researching the historical and political context of publication; that would be the medium difficulty. // Then, if you're a pro reader, you can read and write academic articles about the book. . . . all that kind of applies to every form of media. . . [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugy0M-7Y1tZ_l63ziQR4AaABAg)
+
+see `pathway-1-1`, where this topic of cost being unique to games is discussed.
