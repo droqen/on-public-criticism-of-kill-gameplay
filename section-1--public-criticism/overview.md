@@ -32,6 +32,8 @@
 
 ^ coherent position with interesting follow up points, definitely not my area of interest personally but i'll save it for section 2
 
+> How the audience connects to a work is how it’s defined: A TV show is seen on TV; A Movie is seen in a Movie Theater; A written work is written/read; A game is shown through gameplay. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx2uxD8jAOvTDbIH4t4AaABAg)
+
 ### not only interactivity but _challenge_ is the key to what games are and can do
 
 > Tuning challenge to best convey what the game wants to achieve IS game design, and as such there is no correct answer to what gets included or excluded, or what challenge level is appropriate without the context of a particular design goal. There are very many games that feature characters sleeping but very few ask you, the player, to stare at a black screen for 8 real life hours to accurately simulate this. The simulation is the context, the gameplay is how you are able to engage with it. Gameplay, aka, interactivity IS the art form. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyjMbcCxRbYYa5PCjx4AaABAg)
@@ -191,3 +193,7 @@ see `pathway-1-1`, where this topic of cost being unique to games is discussed.
 > I got the overwhelming impression that Droqen literally does not care about his "game". . . . There's no effort put into whether or not the player understands any of the messaging, and a complete lack of understanding for what kinda of player motivations exist. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgxC7pTeBrm408RkY3J4AaABAg)
 
 ^ again, equating medium/care (i made this) with audience/design (i made it so someone else could understand it) - want to dig into this more
+
+# not found
+
+no particularly specific thoughts on kill gameplay in the reviews of TEoG on backloggd. i haven't checked steam reviews yet but i suspect it will be similarly not about kill gameplay.
