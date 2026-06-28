@@ -24,6 +24,14 @@
 
 > Guy should just make a movie if he doesnt want to have a conversation with the player and their self expression and just wants to talk at them. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwQQIpClvKjmh5cEDd4AaABAg&pp=0gcJCSIANpG00pGi)
 
+> games without gameplay is an oxymoron. It’s like saying music without sound. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyNnYTYgqDKaMRRKTx4AaABAg&pp=0gcJCSIANpG00pGi)
+
+> the gameplay is the "camera" of our industry, it's the necessary part of the medium by which we communicate everything. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugw5kubjPEDiMhJdl7F4AaABAg)
+
+> I think the core defining strength of a game is its ability to remember the choices and interactions you make during gameplay and honor those as you progress. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwYkk_UZ_ILGTMXGuR4AaABAg)
+
+^ coherent position with interesting follow up points, definitely not my area of interest personally but i'll save it for section 2
+
 ### not only interactivity but _challenge_ is the key to what games are and can do
 
 > Tuning challenge to best convey what the game wants to achieve IS game design, and as such there is no correct answer to what gets included or excluded, or what challenge level is appropriate without the context of a particular design goal. There are very many games that feature characters sleeping but very few ask you, the player, to stare at a black screen for 8 real life hours to accurately simulate this. The simulation is the context, the gameplay is how you are able to engage with it. Gameplay, aka, interactivity IS the art form. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyjMbcCxRbYYa5PCjx4AaABAg)
@@ -70,9 +78,19 @@ as with nonsense statements, since these are not grounded in anything, i think i
 
 > When I play a game I wanna have fun. . . . There doesn't need too be a "deeper meaning" because it's just mindless fun. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgxBAvMlrYklkdi6UhN4AaABAg)
 
+## this position (kill gameplay) must come from a place of not understanding fun
+
+> this guy clearly hasnt heard of playing games for fun 🗣🔥 [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx_AwcOTwoNIQ3DRB14AaABAg)
+
+> a half-baked philosophy that refuses to recognize the simple delight that comes from experiencing a game because it's too busy searching for some kind of deeper meaning or purpose? [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwAdxMwpLQzf7L8u1B4AaABAg)
+
 ## the idea that a game should express something or have a point
 
 i want to get more into this one! i'm skimming over them but i should in fairness be grabbing these too, because i think i'm avoiding it due to a lack of connection to an aspect of the original position
+
+> The End of Gameplay l's whole conceit is 'games are worthless if they have nothing to say.' [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyThvTYFZebagtndT14AaABAg)
+
+> a half-baked philosophy that refuses to recognize the simple delight that comes from experiencing a game because it's too busy searching for some kind of deeper meaning or purpose? [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwAdxMwpLQzf7L8u1B4AaABAg)
 
 ## games satisfy a desire to feel a sense of accomplishment
 
@@ -83,6 +101,10 @@ i want to get more into this one! i'm skimming over them but i should in fairnes
 **NOTE:** This one specifically states that the sense of accomplishment is separate from the sense of expression/artistry and positions them relative to one another.
 
 > Completing something, anything, has intrinsic value. And so does getting better at something. These things are simply fun. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwGDb3KvFhzePBCNqB4AaABAg)
+
+> Personally I find stories, especially in gaming, to be far easier to find flaw with than gameplay. In most games, there's some kind of interesting challenge to be had, something to earn. But so many stories don't even bother with earning their resolutions or morals. Full of plot holes and cartoonishly uncritical characters that will hate or love over any little thing. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwwRiO1SFzISQeA4o94AaABAg)
+
+^ "there's some kind of interesting challenge to be had, something to earn" is presented as an argument for gameplay that one can't fault.
 
 ## droqen's position is that games and art must have an instrumental function
 
@@ -121,6 +143,8 @@ i want to get more into this one! i'm skimming over them but i should in fairnes
 > if Sudoku is "useless" because we don't get anything useful other than killing time and keeping our brain active, painting is no different, it only has worth because other people enjoy looking at paintings and buying them which ironically, fuels the purpose of not doing anything useful, it all comes down to nihilism and asking "why do something if it means nothing" [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugwb4XX--vKqSCAT5Qt4AaABAg)
 
 > nihilism is the ideology of . . . [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugz2Qp7G7Sp2jHQPZlV4AaABAg)
+
+> . . . a lazy, nihilistic view of what games are and why we play them. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwAdxMwpLQzf7L8u1B4AaABAg)
 
 ## there's no problem with repetition
 
