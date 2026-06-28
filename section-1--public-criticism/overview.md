@@ -82,6 +82,8 @@ as with nonsense statements, since these are not grounded in anything, i think i
 
 > He just has a strange gap in his understanding which informs his preferences, then he mistakes those preferences as fact [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugzlt9g7xjvoDmlvbh14AaABAg)
 
+> There is no logical way to approach the concept of “kill gameplay” because the very foundation of the argument is presented as an objective truth. Droqen’s comments on Sudoku prove just that - he clearly views certain types of gameplay as pointless, irrelevant, or unworthy of his time. For the last time, Droqen: that. Is. Your. Opinion. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx7GBTj7ZjBjzDaIZ54AaABAg
+
 ## kill gameplay will pass
 
 There are a number of comments that I must be 
@@ -91,6 +93,18 @@ There are a number of comments that I must be
 ## it's wrong to apply kill gameplay to all games
 
 > . . . the notion that most, or all, video games are wrong for being built the way they are is completely idiotic. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx5ey2U0FbJC4eU5MB4AaABAg)
+
+## kill gameplay as attention bait
+
+> there's some irony here in that you seem to have a bone to pick with inauthentic game elements, things that are there in a cynical attempt to bait engagement rather than being there for their own sake or even to improve the experience, but then in your attempt to communicate that criticism you end up employing a label because it's useful rather than descriptive, and it gets attention, even negative attention, that can be the start of the conversation you want to have. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx7GBTj7ZjBjzDaIZ54AaABAg.AYAKCW1OoCsAYFQvqQTDPa)
+
+^ i really like this one because it connects two points in a neutral-ish way - not only a meta-observation about kill gameplay (a useful and attention-getting label), i don't want to leave it out
+
+> I think the whole "kill gameplay" name is hilarious. They very clearly see the value of gameplay as a tool to shape an experience, but "kill gameplay" signifies some kind of incomprehensible contrarian genius, and is just too provocative to pass up. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugztle4ev7Iuscu0kD14AaABAg.AYVE_6CrwslAYVEvDaIa73)
+
+> i feel compelled to argue with this idea from several angles. i am aware enough in this moment to see that Kill Gameplay is bait for this compulsion, wittingly or not. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyOw8L1E-AdNUFafPN4AaABAg)
+
+^ Note the 'wittingly or not'
 
 ## fun
 
@@ -107,6 +121,8 @@ There are a number of comments that I must be
 ### fun: on the specific value of frivolity, meaninglessness
 
 > If my life was nothing but serious conversations and meaningful moments, I think I'd just fucking cry. Like, all the time. That's just so much. I think I need the frivolity of things that don't mean much . . . Especially with the way you juxtapose 'gameplay' and 'meaning/expression' it does feel like you're rallying against frivolity. [@](https://www.youtube.com/watch?v=LH45Q2jiguQ&lc=UgyKuHHBICO2XxkjuzN4AaABAg)
+
+> . . . it's fine to waste time. It is good to spend your time having fun, challenging yourself, or engaging with other people. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugyi35TRAev5HJwLbq14AaABAg)
 
 ### fun: this position (kill gameplay) must come from a place of not understanding fun
 
@@ -160,13 +176,9 @@ i want to get more into this one! i'm skimming over them but i should in fairnes
 
 > I wonder if they think we should kill plot because a novel could be reduced to a short sparknotes explanation of it's own themes and not have all of that silly plot thats just there to entertain you getting in the way. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugztle4ev7Iuscu0kD14AaABAg&pp=0gcJCSIANpG00pGi)
 
-## criticism of the phrase or name "kill gameplay" itself for being dishonest, misrepresentative, pretentious, inflammatory, etc.
+## on the virtues or necessity of entertainment
 
-> I think the whole "kill gameplay" name is hilarious. They very clearly see the value of gameplay as a tool to shape an experience, but "kill gameplay" signifies some kind of incomprehensible contrarian genius, and is just too provocative to pass up. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugztle4ev7Iuscu0kD14AaABAg.AYVE_6CrwslAYVEvDaIa73)
-
-> i feel compelled to argue with this idea from several angles. i am aware enough in this moment to see that Kill Gameplay is bait for this compulsion, wittingly or not. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyOw8L1E-AdNUFafPN4AaABAg)
-
-^ Note the 'wittingly or not'
+> pretty much any non-static art form that asks its audience to engage with it for a certain amount of time (movies, games, performance art) at least has to consider keeping the audience entertained, so that they stick around. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugyi35TRAev5HJwLbq14AaABAg)
 
 ## references to nihilism (some of these may be about The End of Gameplay more than kill gameplay in general?)
 
