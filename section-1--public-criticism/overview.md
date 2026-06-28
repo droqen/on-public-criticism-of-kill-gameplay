@@ -1,10 +1,16 @@
 # section 1; a body of public criticism
 
-## explicit claims that some necessary component of games and game-making is the player's self-expression
+## explicit claims that some necessary component of games and game-making is the player's self-expression / gameplay as self-expression
 
 > Guy should just make a movie if he doesnt want to have a conversation with the player and their self expression and just wants to talk at them. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwQQIpClvKjmh5cEDd4AaABAg&pp=0gcJCSIANpG00pGi)
 
-^ this one is really fascinating, please remember to take a look
+> what if "gameplay" (being not limited to actual games) is a form of expression? [@](https://www.youtube.com/watch?v=OGjv9GDd504&lc=Ugx1e2R12RMdaJdViyl4AaABAg)
+
+## objective goal or gameplay, challenge, etc. is not a meaningful blocker / cost
+
+have to think more about this.
+
+> i don't believe that the fact that they have some level of "objective goal" disallows them from being expressive, nor does it make them inherently less meaningful. afaik, a medium being restricting in some way often doesn't make it not art. [@](https://www.youtube.com/watch?v=OGjv9GDd504&lc=Ugx1e2R12RMdaJdViyl4AaABAg)
 
 ## interactivity ("gameplay") is the only component of games that differentiate them from non-games / if you're not using this component you're either making a non-game or something that shouldn't be a game / if you're not using this component you're not using the unique strength of the medium
 
@@ -34,9 +40,17 @@
 
 > How the audience connects to a work is how it’s defined: A TV show is seen on TV; A Movie is seen in a Movie Theater; A written work is written/read; A game is shown through gameplay. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx2uxD8jAOvTDbIH4t4AaABAg)
 
-### not only interactivity but _challenge_ is the key to what games are and can do
+> I made a few games with no focus on "gameplay" in the traditional sense, and it was hugely liberating and exciting. . . . [eventually] I felt like if I was so intent on deliberately avoiding gameplay then maybe I shouldn't make games. [@](https://www.youtube.com/watch?v=LH45Q2jiguQ&lc=UgyGiTnr80M-J627sNN4AaABAg)
+
+^ no further detail available on why "maybe I shouldn't make games", would be interested now to hear more
+
+### gameplay: not only interactivity but _challenge_ is the key to what games are and can do
 
 > Tuning challenge to best convey what the game wants to achieve IS game design, and as such there is no correct answer to what gets included or excluded, or what challenge level is appropriate without the context of a particular design goal. There are very many games that feature characters sleeping but very few ask you, the player, to stare at a black screen for 8 real life hours to accurately simulate this. The simulation is the context, the gameplay is how you are able to engage with it. Gameplay, aka, interactivity IS the art form. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyjMbcCxRbYYa5PCjx4AaABAg)
+
+## making fun games is itself fun to do
+
+> I was having so much fun just making stuff in a very low-stakes way, maybe the most fun I had creatively in years. It was very hard to ignore how happy I was making a God's Honest Gameplay Game. [@](https://www.youtube.com/watch?v=LH45Q2jiguQ&lc=UgyGiTnr80M-J627sNN4AaABAg)
 
 ## nonsense statements that say things are/aren't art without defining terms
 
@@ -68,11 +82,19 @@ as with nonsense statements, since these are not grounded in anything, i think i
 
 > He just has a strange gap in his understanding which informs his preferences, then he mistakes those preferences as fact [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugzlt9g7xjvoDmlvbh14AaABAg)
 
+## kill gameplay will pass
+
+There are a number of comments that I must be 
+
+> I had my own "kill gameplay" era (or maybe I completely misunderstood kill gameplay), but then I kinda found my way back to enjoying gameplay again. [@](https://www.youtube.com/watch?v=LH45Q2jiguQ&lc=UgyGiTnr80M-J627sNN4AaABAg)
+
 ## it's wrong to apply kill gameplay to all games
 
 > . . . the notion that most, or all, video games are wrong for being built the way they are is completely idiotic. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx5ey2U0FbJC4eU5MB4AaABAg)
 
-## games don't have to have an instrumental function; games can just be fun
+## fun
+
+### fun: games don't have to have an instrumental function; games can just be fun
 
 > I think Droqen completely missed . . . "fun things are fun". // Sudoku is just fun. Nothing more, nothing less. Completing something, anything, has intrinsic value. And so does getting better at something. These things are simply fun. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwGDb3KvFhzePBCNqB4AaABAg)
 
@@ -80,21 +102,19 @@ as with nonsense statements, since these are not grounded in anything, i think i
 
 > When I play a game I wanna have fun. . . . There doesn't need too be a "deeper meaning" because it's just mindless fun. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgxBAvMlrYklkdi6UhN4AaABAg)
 
-## this position (kill gameplay) must come from a place of not understanding fun
+> I like gameplay. I like the 'distractions' as you call it.  (@)[]
+
+### fun: on the specific value of frivolity, meaninglessness
+
+> If my life was nothing but serious conversations and meaningful moments, I think I'd just fucking cry. Like, all the time. That's just so much. I think I need the frivolity of things that don't mean much . . . Especially with the way you juxtapose 'gameplay' and 'meaning/expression' it does feel like you're rallying against frivolity. [@](https://www.youtube.com/watch?v=LH45Q2jiguQ&lc=UgyKuHHBICO2XxkjuzN4AaABAg)
+
+### fun: this position (kill gameplay) must come from a place of not understanding fun
 
 > this guy clearly hasnt heard of playing games for fun 🗣🔥 [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx_AwcOTwoNIQ3DRB14AaABAg)
 
 > a half-baked philosophy that refuses to recognize the simple delight that comes from experiencing a game because it's too busy searching for some kind of deeper meaning or purpose? [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwAdxMwpLQzf7L8u1B4AaABAg)
 
-## the idea that a game should express something or have a point
-
-i want to get more into this one! i'm skimming over them but i should in fairness be grabbing these too, because i think i'm avoiding it due to a lack of connection to an aspect of the original position
-
-> The End of Gameplay l's whole conceit is 'games are worthless if they have nothing to say.' [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyThvTYFZebagtndT14AaABAg)
-
-> a half-baked philosophy that refuses to recognize the simple delight that comes from experiencing a game because it's too busy searching for some kind of deeper meaning or purpose? [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwAdxMwpLQzf7L8u1B4AaABAg)
-
-## games satisfy a desire to feel a sense of accomplishment
+### fun: games satisfy a desire to feel a sense of accomplishment
 
 > I play for the gameplay, for the challenge, for the adrenaline spikes. . . I want to feel challenged, i want to feel like what im doing has meaning. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugw2M4i0ZGKVHwbAXjV4AaABAg)
 
@@ -107,6 +127,26 @@ i want to get more into this one! i'm skimming over them but i should in fairnes
 > Personally I find stories, especially in gaming, to be far easier to find flaw with than gameplay. In most games, there's some kind of interesting challenge to be had, something to earn. But so many stories don't even bother with earning their resolutions or morals. Full of plot holes and cartoonishly uncritical characters that will hate or love over any little thing. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwwRiO1SFzISQeA4o94AaABAg)
 
 ^ "there's some kind of interesting challenge to be had, something to earn" is presented as an argument for gameplay that one can't fault.
+
+> What's important to me is the joy of playing, in that moment. Or maybe exploring that joy with friends, or that great feeling of success as I improve 
+
+^ specifically "that great feeling of success as I improve", but context is useful
+
+## response to droqen's idea that a game should (must) express something or have a point
+
+i want to get more into this one! i'm skimming over them but i should in fairness be grabbing these too, because i think i'm avoiding it due to a lack of connection to an aspect of the original position
+
+> The End of Gameplay l's whole conceit is 'games are worthless if they have nothing to say.' [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgyThvTYFZebagtndT14AaABAg)
+
+> a half-baked philosophy that refuses to recognize the simple delight that comes from experiencing a game because it's too busy searching for some kind of deeper meaning or purpose? [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgwAdxMwpLQzf7L8u1B4AaABAg)
+
+> I think one of your points with Kill Gameplay is to embrace developers expressing themselves through games, as well as players understanding who devs are as people, through their games [@](https://www.youtube.com/watch?v=UoF_R-k3fxo&lc=Ugy_0iYnBJyCjiMzYGx4AaABAg.AIdfsa9HWUTAYAPqq8FD6O&pp=0gcJCSIANpG00pGi)
+
+^ "players understanding who devs are as people"
+
+## puzzles (e.g. sudoku) are capable of conveying/expressing things
+
+> I think the best puzzle games convey a thought process from one person to another. Something like Baba Is You or The Witness will introduce concepts, start simple, and then get players to consider possibilities and make intuitive leaps. That spark of discovery and understanding is what it's trying to convey. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugzvv7k3MNONEAZv5wZ4AaABAg.AYMilLTY80hAY_uC__lGZT)
 
 ## droqen's position is that games and art must have an instrumental function
 
@@ -180,7 +220,7 @@ see `pathway-1-1`, where this topic of cost being unique to games is discussed.
 
 ^ hmm. i don't think i agree that it is 'little different'
 
-## privileging audience, perhaps equating medium with audience
+## privileging audience, perhaps equating medium with audience; player experience
 
 > if you've started to hate the audience who engages with your work in ways you don't like? it's maybe time to find a new creative medium [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=Ugx2x1HKL4VCcCGPo2l4AaABAg)
 
@@ -193,6 +233,16 @@ see `pathway-1-1`, where this topic of cost being unique to games is discussed.
 > I got the overwhelming impression that Droqen literally does not care about his "game". . . . There's no effort put into whether or not the player understands any of the messaging, and a complete lack of understanding for what kinda of player motivations exist. [@](https://www.youtube.com/watch?v=6qmt9LX8pTI&lc=UgxC7pTeBrm408RkY3J4AaABAg)
 
 ^ again, equating medium/care (i made this) with audience/design (i made it so someone else could understand it) - want to dig into this more
+
+> gameplay primarily exists for the audience, not the creator. And I think that part of the reason I find gameplay is so valuable is because I care a lot more about the depth of the player experience than what the developer is trying to express emotionally [@](https://www.youtube.com/watch?v=UoF_R-k3fxo&lc=Ugy_0iYnBJyCjiMzYGx4AaABAg.AIdfsa9HWUTAYAPqq8FD6O)
+
+> Once the art is made, the maker is no longer a critical part of the conversation (unless they make themselves present in every showing of the work). The "most important" aspect once the work is created is the viewer / player's experience with the work [@](https://www.youtube.com/watch?v=UoF_R-k3fxo&lc=Ugy_0iYnBJyCjiMzYGx4AaABAg)
+
+> I don't think I care all that much who Shigeru Miyamoto is as I try to beat a great game like Super Mario Bros. [@](https://www.youtube.com/watch?v=UoF_R-k3fxo&lc=Ugy_0iYnBJyCjiMzYGx4AaABAg.AIdfsa9HWUTAYAPqq8FD6O&pp=0gcJCSIANpG00pGi)
+
+## reframing addiction and compulsion
+
+> Spelunky does become addictive once you get good at it (in a sense), but I think the key difference is artificial addiction (meta-progression, currency farming, unlocks etc.) and "being addictive" in the colloquial sense: the same way you might be addicted to a book simply because you're really interested in it. [@](https://www.youtube.com/watch?v=LH45Q2jiguQ&lc=UgyGiTnr80M-J627sNN4AaABAg.AWdnbxfmRsXAYKDjQY06Hx)
 
 # not found
 

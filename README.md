@@ -12,11 +12,13 @@ within this repository i'd like to gather a body of other public responses, reac
 
 ### a number of major resources i'd like to include:
 - replies to 'kill gameplay' tweets and bleets on twitter and bluesky
+	- i suspect i will get more out of reading these than the 'easily dismissed' youtube comments on dot's video
 - other on-topic tweets and bleets that are not direct replies but explicitly cite kill gameplay as the topic
 - comments left on my youtube videos
 	- [droqen's "kill gameplay" rant @ bonus stage (jan 2025)](https://youtu.be/OGjv9GDd504)
 	- [The End of Gameplay Trailer](https://youtu.be/g_kQLrBSrt0)
 	- [untitled kill gameplay video](https://youtu.be/LH45Q2jiguQ)
+		- wow, there are some good thoughts here
 	- and [a video about the very first negative review of the end of gameplay (and certainly not the last)](https://youtu.be/UoF_R-k3fxo)
 - reviews of The End of Gameplay found [on Steam](https://store.steampowered.com/app/3120040/The_End_of_Gameplay/#app_reviews_hash) and [on backloggd](https://backloggd.com/games/the-end-of-gameplay/)
 - comments left on the youtube video [I Played the Game That Hates Gameplay and I Have Thoughts](https://youtu.be/6qmt9LX8pTI) ([i am a dot.](https://www.youtube.com/@i_am_a_dot))
