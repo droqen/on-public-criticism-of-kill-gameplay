@@ -1,4 +1,3 @@
-```
 1. kill gameplay is a position. when i say "kill gameplay" and assert that challenges are evil, math is fake, and democracy is bad, all these subsequent claims are positions themselves, or representative of some position. this is true of all such positional statements, whoever presents it. people embody different values to greater and lesser degrees over the course of their lives.
 
 2. gameplay is evil, gameplay is fake, and gameplay is bad. what does it mean to kill gameplay? rather than draw an arbitrary and undefinable line between good and bad compulsion (addiction and gambling vs. fun and rewarding challenges), i sought to create a distinctly defined but likely impossible to achieve ideal, something real to shoot for and fail at. in general, i find the definition of gameplay as 'anything that the player does in a game', and similarly the definition of game design as 'making any decisions that alter the game or player experience', to be completely useless. **gameplay**, as i kill it, is value systems divorced from their underlying values, perhaps replaced with different values, for any purpose; think more 'kill gamification' than 'kill gamefeel'. if a person says they play sudoku because it "makes them feel smart," i am compelled to point out that feeling smart is not the same as being smart; this is gameplay. if a person says they play a game because it makes them feel they are doing something meaningful or accomplishing something when they are really just increasing an integer which has been bound to the idea of progress, this is gameplay.
@@ -18,4 +17,3 @@
 9. gameplay is infinite. a game is finite.
 
 10. kill gameplay.
-```
